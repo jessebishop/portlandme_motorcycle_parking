@@ -1,0 +1,484 @@
+{
+    "type": "FeatureCollection",
+    "name": "motorcycle_parking_spots",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Brackett Street at Neal St",
+                "Verified": true,
+                "number_of_spots": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.271824387412082,
+                    43.652434642794951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Bramhall Street at Hill Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.27358,
+                    43.653369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Commercial Street at Chandler's Wharf",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2532252,
+                    43.6555982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Commercial Street at Cross Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2551386,
+                    43.654296200000019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Commercial Street at Union Wharf",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2543707,
+                    43.6549076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Congress Street at Atlantic St",
+                "Verified": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.246948461950581,
+                    43.666583447422369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Congress Street at Dow St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2688862,
+                    43.6529945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Congress Street at Kellogg St",
+                "Verified": true,
+                "number_of_spots": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.248938127284561,
+                    43.66495738651858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Congress Street at795",
+                "Verified": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.272118763990335,
+                    43.65388551766388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Congress Street at Myrtle Street",
+                "Verified": true,
+                "number_of_spots": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.256383976889012,
+                    43.65939089078055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Cumberland Avenue at Hanover St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2628233,
+                    43.6571459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Cumberland Avenue at Mechanic St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.264125899999982,
+                    43.656374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Danforth St and Park St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.260691899999983,
+                    43.6511785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Federal Street at Market Street",
+                "Verified": true,
+                "number_of_spots": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25569415259973,
+                    43.658859465621404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Fore Street at Cross St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2559515,
+                    43.655339099999978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "High Street between Spring Street and Congress Street",
+                "Verified": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.262622933905504,
+                    43.653501741253145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "High Street at Deering Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.264193800000015,
+                    43.6546902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Market Street at Middle Street",
+                "Verified": true,
+                "number_of_spots": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.254099106524919,
+                    43.657848945708146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Mellen Street at Congress Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2698087,
+                    43.6531115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Middle Street at Market St",
+                "Verified": true,
+                "number_of_spots": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.25434101448225,
+                    43.657810985949389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Myrtle Street at Congress Street",
+                "Verified": true,
+                "number_of_spots": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.256614838820909,
+                    43.659363720285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Oak Street at Free Street",
+                "Verified": false,
+                "number_of_spots": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2612942,
+                    43.654869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Oak St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2597805,
+                    43.65343570000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "72 Oak Street (Between Congress St and Cumberland Avenue)",
+                "Verified": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.262126037650816,
+                    43.655507486124868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Park Avenue at Deering Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2734728,
+                    43.6563832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Pine Street at Emery",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.269809099999989,
+                    43.6499577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Pine Street at Winter St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.267546900000013,
+                    43.6521415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Silver Street at Fore Street",
+                "Verified": true,
+                "number_of_spots": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.252330637850534,
+                    43.656977463513421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Spring Street - Southside near Union Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.259842400000011,
+                    43.6547926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "State Street at Deering Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.267260900000011,
+                    43.6542989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "State Street at Sherman St",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2680259,
+                    43.655907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "Temple Street at Free Street",
+                "Verified": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2565544,
+                    43.657427899999988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Street": "The Thames at India Street",
+                "Verified": true,
+                "number_of_spots": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.248203566592224,
+                    43.659315172971937
+                ]
+            }
+        }
+    ]
+}
